@@ -1,0 +1,6 @@
+With Others,3|2.5,700|600,true
+With Others,1|3.5,600|700,true
+With Others,1|3.5|1|1,600|700|600|700,true
+With Others,1|1.5,550|700,false
+With Others,1|1,700|600,false
+With Others,.5|.5,600|500,false
